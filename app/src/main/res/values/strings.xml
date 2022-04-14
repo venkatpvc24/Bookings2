@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bookings2</string>
+    <string name="login_txt">Login</string>
+    <string name="intruduction_txt">Training for Pilatale and Personnel</string>
+    <string name="login_activity">Login</string>
+    <string name="signup_activity">Signup</string>
+</resources>
